@@ -1,7 +1,6 @@
 import pandas
 
-# TODO 1. Create a dictionary in this format:
-# {"A": "Alfa", "B": "Bravo"}
+
 data = pandas.read_csv(
     "/Users/jinchoi/Desktop/python_github/list_comprehension.py/nato_phonetic_alphabet.csv")
 
